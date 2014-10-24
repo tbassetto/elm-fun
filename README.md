@@ -4,7 +4,7 @@ This is just a repository for me to play around with the [Elm](http://elm-lang.o
 
 ## Why Learning Elm
 
-I heard that it's a great first language to learn [Functional Reactive Programming](http://elm-lang.org/learn/What-is-FRP.elm).
+I heard that it's a great first [Functional Reactive Programming](http://elm-lang.org/learn/What-is-FRP.elm) language to learn as a Web Developer.
 
 ## Folder Architecture
 
