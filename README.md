@@ -21,10 +21,11 @@ I heard that it's a great first [Functional Reactive Programming](http://elm-lan
 ## Best Resources
 
 * [The official Learning Roadmap](http://elm-lang.org/learn/Roadmap.elm)
+* [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621)
 * [Functional Reactive Programming in Elm and JS](http://www.ustream.tv/recorded/46672791) (video)
 * [Concurrent FRP for GUIs](http://elm-lang.org/papers/concurrent-frp.pdf) (pdf)
 
 ## Be A Good Citizen
 
+* [Haskell Style Guide for Elm](https://gist.github.com/evancz/0a1f3717c92fe71702be)
 * [Library Design Guidelines](http://library.elm-lang.org/DesignGuidelines.html)
-* [Chris Done's Haskell style guide](https://github.com/chrisdone/haskell-style-guide)
